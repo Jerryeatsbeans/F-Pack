@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "If you downloaded this pack, you should be ashamed of yourself. Have fun!",
+    "name": "F*** PACK",
+    "uuid": "f2ec5e36-f2f6-4680-88a3-76ad3c5984e1",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 20, 30 ]
+  },
+  "modules": [
+    {
+      "description": "If you downloaded this pack, you should be ashamed of yourself. Have fun!",
+      "type": "resources",
+      "uuid": "ff985dac-0869-4943-887c-ac2d398bad42",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+ }
